@@ -9,8 +9,8 @@ Music streaming platforms need to predict whether a song will become popular.
 This project uses audio features and metadata to predict a song’s popularity score using Machine Learning.
 
 ## Dataset
-Spotify Tracks Dataset (Kaggle)
-**Source: Kaggle**
+Spotify Tracks Dataset (Kaggle)<br>
+**Source: Kaggle**<br>
 **Records: ~120,000 songs**
 
 ## ML Task
